@@ -1,1 +1,1 @@
-# ICT に関するリソース
+# Resources about ICT
