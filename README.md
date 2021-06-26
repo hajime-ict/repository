@@ -1,1 +1,1 @@
-# repository
+# ICT に関するリソース
